@@ -62,7 +62,7 @@ body {
   text-align: center;
 }
 #card #message h2 {
-  font-size: 20px;
+  font-size: 14px;
   color: #fff;
   width: 160px;
   margin-top: 60px;
@@ -223,3 +223,4 @@ body {
     transform: rotateX(180deg);
   }
 }
+
